@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLiga2 HD FULL HD" tvg-logo="" group-title="DAZN",DAZN LaLiga2 HD FULL HD
-http://uoerlholzk3sibcgae0w9b.green.onerunthisway.me/live/sun.php?z=997&u=VYQpJaJYzu&s=0655006666&id=27163&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLiga2 HD" tvg-logo="" group-title="DAZN",DAZN LaLiga2 HD
-http://wahtv02d1ysz7oweolnpd5.green.onerunthisway.me/live/sun.php?z=997&u=VYQpJaJYzu&s=0655006666&id=27161&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLigaFULLHD" tvg-logo="" group-title="DAZN",DAZN LaLigaFULLHD
-http://LQOmTBKYCz2q0SFZpMIt84.green.onerunthisway.me/live/sun.php?z=997&u=VYQpJaJYzu&s=0655006666&id=27162&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLigaHD" tvg-logo="" group-title="DAZN",DAZN LaLigaHD
-http://fswzbrpkm8ueekfdoyw2nm.green.onerunthisway.me/live/sun.php?z=997&u=VYQpJaJYzu&s=0655006666&id=27160&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="HBO Max 1" tvg-logo="" group-title="PELICULAS 24H",HBO Max 1
 http://1XuUYZzbkOGyjKdlE4D63q.green.onerunthisway.me/live/sun.php?z=997&u=VYQpJaJYzu&s=0655006666&id=26649&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="HBO Max 2" tvg-logo="" group-title="PELICULAS 24H",HBO Max 2
@@ -241,6 +233,26 @@ http://hWJruBDLs9Xm8FNHaP7ZiC.green.onerunthisway.me/live/sun.php?z=997&u=VYQpJa
 http://yZEUls4qjJOeMTLPwIXCbf.green.onerunthisway.me/live/sun.php?z=997&u=VYQpJaJYzu&s=0655006666&id=376&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="TOROS FULL HD" tvg-logo="" group-title="TOROS",TOROS FULL HD
 http://43stiozrdqFnKGJUcDf5Ql.green.onerunthisway.me/live/sun.php?z=997&u=VYQpJaJYzu&s=0655006666&id=3816&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLigaHD" tvg-logo="" group-title="DAZN",DAZN LaLigaHD
+http://hmub4KNE2n7WO6A5JQDLaB.green.onerunthisway.me/live/sun.php?z=997&u=VYQpJaJYzu&s=0655006666&id=27160&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLigaHD+" tvg-logo="" group-title="DAZN",DAZN LaLigaHD+
+http://qoIgURQzxmteWN3vuPphMX.green.onerunthisway.me/live/sun.php?z=997&u=VYQpJaJYzu&s=0655006666&id=27173&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA SD" tvg-logo="" group-title="DAZN",DAZN LALIGA SD
+http://QBdh7Tpek2A34z5FfcogLt.green.onerunthisway.me/live/sun.php?z=997&u=VYQpJaJYzu&s=0655006666&id=27170&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLiga" tvg-logo="" group-title="DAZN",DAZN LaLiga
+http://BFWGcgHXKSMAs16Qb0rw8p.green.onerunthisway.me/live/sun.php?z=997&u=VYQpJaJYzu&s=0655006666&id=27174&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLigaFHD" tvg-logo="" group-title="DAZN",DAZN LaLigaFHD
+http://r2Ek7XKxLiBcSCGmNuAh34.green.onerunthisway.me/live/sun.php?z=997&u=VYQpJaJYzu&s=0655006666&id=27175&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLigaHD FULL HD" tvg-logo="" group-title="DAZN",DAZN LaLigaHD FULL HD
+http://63hdN01ZSzrxnkIUTXiRqJ.green.onerunthisway.me/live/sun.php?z=997&u=VYQpJaJYzu&s=0655006666&id=27162&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLiga 2K" tvg-logo="" group-title="DAZN",DAZN LaLiga 2K
+http://wQWZEcASdks9OmnuHTy1VY.green.onerunthisway.me/live/sun.php?z=997&u=VYQpJaJYzu&s=0655006666&id=27169&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLiga 4K" tvg-logo="" group-title="DAZN",DAZN LaLiga 4K
+http://cN6TDCXrL5oYvGOdPqz1l9.green.onerunthisway.me/live/sun.php?z=997&u=VYQpJaJYzu&s=0655006666&id=27168&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLiga2 HD" tvg-logo="" group-title="DAZN",DAZN LaLiga2 HD
+http://ltrWn8Aus0aCTYOb6HEwdZ.green.onerunthisway.me/live/sun.php?z=997&u=VYQpJaJYzu&s=0655006666&id=27161&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLiga2 HD FULL HD" tvg-logo="" group-title="DAZN",DAZN LaLiga2 HD FULL HD
+http://P8caTMKbViQzUeDBHw120S.green.onerunthisway.me/live/sun.php?z=997&u=VYQpJaJYzu&s=0655006666&id=27163&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="M. LaLiga HD" tvg-logo="" group-title="LA LIGA",M. LaLiga HD
 http://JgXaiVKwF3jBTEHesrS7bh.green.onerunthisway.me/live/sun.php?z=997&u=VYQpJaJYzu&s=0655006666&id=26046&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="M. LaLiga HD+" tvg-logo="" group-title="LA LIGA",M. LaLiga HD+
